@@ -1,1 +1,1 @@
-When you run 'uname' command, it print out the information of system. For example when you print with option -m it prints the name of machine. You can combine it with other option for more information that are related to your system.
+When you run 'uname' command, it print out the information of system especially in Unix operating system like Linux. For example when you print with option -m it prints the name of machine. You can combine it with other option for more information that are related to your system.
